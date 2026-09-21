@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Temowo
 
-<!--
-**Gtemowo/Gtemowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst a background in information technology and business, now building insightful projects in PowerBi, Excel and SQL
 
-Here are some ideas to get you started:
+## Tools I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Excel
+- PowerBi
+- SQL
+- Google Sheets
+
+  ## My Projects
+
+  ## currently learning
+  - Advanced SQL
+  - Python for data science
+  
+  # let's connect
+  [Linkedin](https://linkedin.com/in/temowo-gbenga)
