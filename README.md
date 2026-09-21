@@ -1,6 +1,6 @@
 # Hi, I'm Temowo
 
-I'm a data analyst a background in information technology and business, now building insightful projects in PowerBi, Excel and SQL
+I'm a data analyst with a background in information technology and business, now building insightful projects with PowerBi, Excel and SQL.
 
 ## Tools I work with
 
