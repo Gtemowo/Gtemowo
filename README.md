@@ -9,11 +9,12 @@ I'm a data analyst a background in information technology and business, now buil
 - SQL
 - Google Sheets
 
-  ## My Projects
+ ## My Projects
+ - []Palmoria-Analysis] (....)
 
-  ## currently learning
-  - Advanced SQL
-  - Python for data science
+ ## currently learning
+ - Advanced SQL
+ - Python for data science
   
-  # let's connect
-  [Linkedin](https://linkedin.com/in/temowo-gbenga)
+ # let's connect
+ [Linkedin](https://linkedin.com/in/temowo-gbenga)
