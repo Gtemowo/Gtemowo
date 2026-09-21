@@ -10,7 +10,7 @@ I'm a data analyst a background in information technology and business, now buil
 - Google Sheets
 
  ## My Projects
- - []Palmoria-Analysis] (....)
+ - [Palmoria-Analysis](https://github.com/Gtemowo/Palmoria-analysis)
 
  ## currently learning
  - Advanced SQL
