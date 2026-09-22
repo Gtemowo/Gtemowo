@@ -11,6 +11,7 @@ I'm a data analyst with a background in information technology and business, now
 
  ## My Projects
  - [Palmoria-Analysis](https://github.com/Gtemowo/Palmoria-analysis)
+ - [Faya-Mask-sales-profit-and-forecast-analysis](https://github.com/Gtemowo/Faya-Mask-sales-profit-and-forecast-analysis)
 
  ## currently learning
  - Advanced SQL
